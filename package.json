@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "discord.js": "github:discordjs/discord.js#master",
+    "klasa": "dirigeants/klasa"
+  }
+}
