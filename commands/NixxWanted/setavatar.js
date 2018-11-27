@@ -5,7 +5,7 @@ module.exports = class extends Command {
 	constructor(...args) {
 		super(...args, {
 			description: 'Set the PFP of your bot! (Twice an Hour Only)',
-			permissionLevel: 9,
+			permissionLevel: 0,
             aliases: ['avatar'],
 			usage:'<url:...str>',
             usageDelim: " "

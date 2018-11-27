@@ -5,7 +5,7 @@ module.exports = class extends Command {
 	constructor(...args) {
 		super(...args, {
 			description: 'Send an Embed! Ex: (prefix)embed (Hexcolor) (title) (Message)',
-			permissionLevel: 6,
+			permissionLevel: 0,
             aliases: ['e'],
             usage:'<color:str> <says1:...str>',
             usageDelim: " "
