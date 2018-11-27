@@ -2,5 +2,16 @@
   "dependencies": {
     "discord.js": "github:discordjs/discord.js#master",
     "klasa": "dirigeants/klasa"
-  }
+  },
+  "name": "mygirlfriend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "description": ""
 }
